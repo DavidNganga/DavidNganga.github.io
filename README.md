@@ -24,3 +24,7 @@ And, sure, you can just express thanks in your mind without telling the world.
 Contributors of this project by forking have the option to add his/her name and forked project url at copyright and project url sections, but shall not delete or modify anything else in these two sections.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE</p>
+
+----
+# Demo
+Here is a link to the live site on GitHub Pages https://github.com/DavidNganga/DavidNganga.github.io
