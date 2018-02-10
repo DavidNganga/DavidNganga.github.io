@@ -1,4 +1,10 @@
 .img{
-  height: 50%;
-  width: 50%;
+  align-content: right;
+}
+.education{
+    color: blue
+
+}
+.test-box{
+    border: 2px solid black;
 }
