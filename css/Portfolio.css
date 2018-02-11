@@ -1,18 +1,13 @@
 .img{
   align-content: right;
 }
-.education{
-    color: azure;
 
-}
 .test-box{
     border: 2px solid purple;
 }
 body{
     background-color: black;
-}
-body{
-    color: azure;
+    color: purple;
 }
 .side{
     text-align: center;
